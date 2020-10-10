@@ -1,5 +1,5 @@
 # laravel_8_auth
-This is a simple laravel 8 CRUD app.
+This is a simple laravel 8 app that teaches how to do user registration and login.
 The repository is the code to one of my article on **Dev.to**, [Laravel 8 Auth (Registration and Login)](https://dev.to/kingsconsult/laravel-8-auth-registration-and-login-32jl) the article will teach you how to do user authentication in Laravel 8, the method is applicable to Laravel 6 and also Laravel 7 
 
 ## How to install and run on your local system
