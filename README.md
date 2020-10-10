@@ -15,10 +15,13 @@ The repository is the code to one of my article on **Dev.to**, [Laravel 8 Auth (
 9. php artisan migrate
 10. php artisan serve (if the server opens up, http://127.0.0.1:8000,  then we are good to go)
 ![localhost](https://res.cloudinary.com/kingsconsult/image/upload/v1600705305/laravel%208%20modal/4_pp7r76.png)
+
 Holding down the Ctrl button and Clicking the localhost http://127.0.0.1:8000/ will serve our app in our default browser
 ![homepage](https://res.cloudinary.com/kingsconsult/image/upload/v1602275187/laravel%208%20gmail/4_fiftn6.png)
+
 Then click on register by the top-right to register an account,
 ![register page](https://res.cloudinary.com/kingsconsult/image/upload/v1600318471/10_rqgzrc.png)
+
 will give us this page, filling your name, email address and password and submitting will take us to the our dashboard
 ![Dashboard](https://res.cloudinary.com/kingsconsult/image/upload/v1600318472/11_htzvj5.png)
 
